@@ -1,0 +1,3 @@
+.tw-animation.tw-animation--animate.tw-animation--delay-medium.tw-animation--duration-medium.tw-animation--fill-mode-both.tw-animation--slide-in-bottom.tw-animation--timing-ease {
+    display: none;
+}
